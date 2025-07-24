@@ -1,2 +1,3 @@
 # TicTacToe
-A Terminal Based Tic-Tac-Toe game developed in C++
+A Tic-Tac-Toe game developed in Python.
+Unbeatable AI Algorithm, try me.
